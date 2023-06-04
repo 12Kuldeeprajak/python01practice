@@ -24,4 +24,4 @@ Loops in Python
 •	For Loop
 •	# While loop example -> program to print the table
 •	# Program -> Sum of all digits of a given number
-
+........
